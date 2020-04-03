@@ -3,7 +3,7 @@ body {
     text-align: center;
     font-family: 'Merriweather', serif;
     color: #40514E;
-    background-color: #e4f9f5;
+    background-color: rgb(244, 250, 250);
 }
 
 h1 {
@@ -38,7 +38,7 @@ ul li a {
 }
 
 .assignments img {
-    width: 350px;
+    width: 400px;
 }
 
 .buttons {
