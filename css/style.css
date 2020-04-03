@@ -25,6 +25,12 @@ h3 {
     font-size: 1.5rem;
 }
 
+h4 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    font-size: 1.5rem;
+}
+
 hr {
     border: dotted #40514e 6px;
     border-bottom: none;
@@ -32,6 +38,16 @@ hr {
     margin: 100px auto;
 }
 
+ul li  {
+    display: inline; 
+}
+
+ul li a {
+    color: #11999e;
+    text-decoration: none;
+    font-size: 1.5rem;
+    margin-left: 10px;
+}
 .top-container {
     background-color: #e4f9f5;
     margin: 0px;
@@ -141,4 +157,15 @@ hr {
     padding: 20px 0;
 }
 
+.section-one {
+    margin: 100px auto;
+}
 
+.section-text {
+    margin: 100px auto;
+    text-align: left;
+}
+
+.section-two {
+    margin: 100px auto;
+}
